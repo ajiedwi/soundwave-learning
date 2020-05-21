@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#F77F00</color>
+    <color name="colorPrimary">#FCBF49</color>
+    <color name="colorAccent">#D62828</color>
+    <color name="blueColor">#003049</color>
+    <color name="backgroundWhite">#ffffff</color>
+    <color name="backgroundOrange">#EAE2B7</color>
+    <color name="textColorBlack">#333</color>
+    <color name="chocolate">#220901</color>
+    <color name="frenchPuce">#621708</color>
+    <color name="rufous">#941B0C</color>
+    <color name="rust">#BC3908</color>
+    <color name="bg_green">#2e7d32</color>
+</resources>

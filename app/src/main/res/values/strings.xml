@@ -1,0 +1,345 @@
+<resources>
+    <string name="app_name">Soundwave Learning</string>
+    <string name="kompetensi_dasar">Kompetensi Dasar</string>
+    <string name="kompetensi_yang_diukur">Kompetensi yang diukur</string>
+    <string name="_1">1.</string>
+    <string name="kemampuan_pemecahan_masalah">Kemampuan Pemecahan Masalah</string>
+    <string name="peserta_didik_dapat">Peserta Didik dapat :</string>
+    <string name="_2">2.</string>
+    <string name="kemampuan_berfikir_kritis">Kemampuan Berfikir Kritis</string>
+    <string name="pendahuluan_materi">
+        \n
+        \t\tAlat musik tradisional Gamelan menjadi salah satu
+        peninggalan budaya yang dilestarikan hingga sekarang.
+        Gamelan menghasilkan nada-nada khas yang mencirikan
+        budaya pada suatu daerah khususnya Jawa, Madura, dan Bali.
+        Kata gamelan berasal dari bahasa Jawa <i>gamel</i> yang berarti
+        memukul atau menabuh. Asal kita ini menunjukkan bahwa
+        gamelan dimainkan dengan cara dipukul atau ditabuh.\n
+        \t\tBunyi yang dihasilkan gamelan pada sebuah seni
+        karawitan dipandang sebagai gelombang akustik atau
+        gelombang bunyi. Gelombang bunyi yang terdengar dalam
+        karawitan berasal dari tali-tali yang bergetar (siter dan rebab),
+        kolom udara (gender), dan pelat kayu bergetar (gambang).
+    </string>
+    <string name="pendahuluan">Pendahuluan</string>
+    <string name="materi_3">Materi 3</string>
+    <string name="materi_2">Materi 2</string>
+    <string name="materi_1">Materi 1</string>
+    <string name="nama_t_nafi_atus_sholihah">Nama\t: Nafi\'atus Sholihah</string>
+    <string name="ttl_t_ngawi_20_maret_1994">TTL\t: Ngawi, 20 Maret 1994</string>
+    <string name="percobaan_1">Percobaan 1</string>
+    <string name="percobaan_2">Percobaan 2</string>
+    <string name="percobaan_3">Percobaan 3</string>
+    <string name="mulai">Mulai</string>
+    <string-array name="bahan_percobaan_1">
+        <item>Toples Kaca (1 buah)</item>
+        <item><i>Smartphone</i> (2 buah)</item>
+    </string-array>
+    <string-array name="langkah_percobaan_1">
+        <item>Siapkan toples kaca dan <i>smarthphone</i>.</item>
+        <item>Buka pengaturan alarm pada <i>smartphone</i> kalian.</item>
+        <item>Masukkan <i>smartphone</i> pertama pada toples kaca dengan keadaan alarm menyala.</item>
+        <item>Nyalakan alarm pada <i>smartphone</i> kedua di ruang terbuka.</item>
+        <item>Ulangi langkah ke 3 dan ke 4 sebanyak 3 kali.</item>
+        <item>Bandingkan hasil bunyi alarm yang tertutup oleh toples kaca dan alarm yang terbuka!</item>
+        <item>Catat hasil percobaan kalian pada LKPD yang telah dibagikan.</item>
+        <item>Diskusikan hasil percobaan dengan teman sekelompokmu.</item>
+    </string-array>
+    <string-array name="bahan_percobaan_2">
+        <item>Aplikasi <i>Audio Frequency Counter</i></item>
+        <item>Gender Barung dan Panerus</item>
+        <item>Pemukul atau tabuh</item>
+    </string-array>
+    <string-array name="langkah_percobaan_2">
+        <item>Tekan tombol \"Mulai\" dibawah untuk membuka aplikasi <i>Audio Frequency Counter</i>.</item>
+        <item>Setelah aplikasi siap, tabuh gender per bilah hingga tertabuh semua.</item>
+        <item>Ulangi langkah nomer 2 sebanyak 3 kali.</item>
+        <item>Perhatikan perbedaan nada yang ditimbulkan.</item>
+        <item>Catatlah percobaan pada \“Tabel Hasil Percobaan\” pada LKPD kalian.</item>
+        <item>Diskusikanlah penyebab perbedaan nada yang dihasilkan pada setiap bilah.</item>
+    </string-array>
+    <string-array name="bahan_percobaan_3">
+        <item>Aplikasi <i>Sound Meter</i></item>
+        <item>Gender Barung dan Panerus</item>
+        <item>Pemukul atau tabuh</item>
+    </string-array>
+    <string-array name="langkah_percobaan_3">
+        <item>Tekan tombol \"Mulai\" dibawah untuk membuka aplikasi <i>Sound Meter</i>.</item>
+        <item>Setelah aplikasi siap, tabuh gender per bilah hingga tertabuh semua.</item>
+        <item>Hitunglah taraf intensitas bunyinya dengan variasi jarak!</item>
+        <item>Ulangi langkah nomer 2 sebanyak 3 kali.</item>
+        <item>Catatlah data hasil percobaan yang kalian lakukan pada tabel yang telah disediakan!</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tahukah_kamu">Tahukah Kamu?</string>
+    <string name="materi_1_1_1">
+        \tPada liburan sekolah, Gifari dan keluarga berlibur ke Yogyakarta dan menginap di salah satu hotel dekat Jl. Malioboro. Hotel tersebut memiliki fasilitas yang sangat lengkap, mulai dari kolam renang, restoran, pertunjukan musik dan masih banyak lainnya. Hari kedua menginap, di aula hotel dekat kolam renang diadakan sebuah pertunjukan musik gamelan. Keluarga Gifari sepakat untuk menyaksikan pertunjukkan tersebut bersama dan duduk di barisan terdepan. Saat pertunjukkan dimulai, alat musik mulai ditabuh dan menghasilkan nada yang indah. Gifari memperhatikan gong, dan terlihat jelas bergetar setelah ditabuh. Gifari pun bergumam, \"kenapa gong bergetar  sedemikian rupa kemudian kita bisa mendengar bunyinya?\". Di pertengahan pertunjukkan, Gifari merasa bosan. Dia meminta izin kepada mamanya untuk melakukan aktivitas lain yaitu berenang. Karena lokasi aula dan kolam renang sangatlah dekat, Gifari masih dapat mendengar suara musik tersebut.
+        \n\tSetelah berganti pakaian renang, Gifari langsung masuk ke dalam kolam renang. Selama 30 detik dalam air, Gifari menyadari sesuatu, kenapa dia tidak mendengar musik gamelan. Dia bergegas memunculkan kepala ke permukaan kolam, bunyi gamelan pun terdengar kembali. Dia pun bertanya pada diri sendiri, kenapa dia tidak dapat mendengar suara saat berenang di kedalaman tertentu?
+        \n*(kolam renang dianggap tidak berudara)
+    </string>
+    <string name="lakukan_percobaan_1">Lakukan Percobaan 1</string>
+    <string name="materi_1_2_1">
+        \tBunyi merupakan <b>gelombang mekanik</b> yang membutuhkan medium untuk memindahkan energi dari satu tempat ke tempat lain. Saat tidak ada medium penghantar bunyi, maka bunyi tidak dapat terdengar oleh telinga kita. Inilah sebab kenapa saat permainan musik gamelan dimainkan di ruang terbuka akan terdengar dari jarak 500 m sebelum tempat pertunjukan. Selain medium, getaran yang disebabkan oleh sumber bunyi seperti gamelan juga menjadi penyebab terdengarnya musik gamelan. Banyak getaran yang dihasilkan oleh sumber bunyi per detik disebut dengan <b>frekuensi.</b> Bunyi dapat di dengar oleh telinga kita apabila memiliki frekuensi dengan rentang 20 Hz-20.000 Hz (<b>audiosonik</b>). Kurang dari 20 Hz merupakan bunyi <b>infrasonik.</b> Sedangkan, lebih dari 20.000 Hz disebut dengan bunyi <b>ultrasonik.</b>
+    </string>
+    <string name="perlu_diingat">Perlu Diingat!</string>
+    <string name="materi_1_2_2">
+        \tSemakin kecil frekuensi sebuah bunyi, maka jumlah gelombang yang dihasilkan akan semakin sedikit tetapi panjang gelombangnya akan semakin besar (panjang). Sebaliknya, semakin besar frekuensi bunyi, maka jumlah gelombang yang dihasilkan semakin banyak, tetapi panjang gelombangnya semakin kecil (pendek).
+    </string>
+    <string name="materi_1_3_1">
+        \tBunyi dapat merambat melalui medium zat padat, zat cair, dan zat gas. Saat alat musik gamelan dimainkan udara yang berada disekitar gamelan bergetar. Getaran udara dan kecepatan rambat bunyi pada udara yang menyebabkan getaran bunyi sampai ke gendang telinga kita.\nKecepatan bunyi:
+    </string>
+    <string name="materi_1_3_2">
+        \tDengan, <i>v</i>: kecepatan bunyi (m/s); <i>s</i>: jarak yang ditempuh bunyi (m); <i>t</i>: waktu (s); <i>λ</i>: panjang gelombang (m); <i>T</i>: periode; <i>f</i>: frekuensi (Hz). Kecepatan bunyi dipegaruhi oleh medium dan suhu.
+    </string>
+    <string name="materi_1_3_3">
+        \tCepat rambat bunyi pada zat cair dapat ditentukan dengan persamaan:
+    </string>
+    <string name="materi_1_3_4">
+        \tDengan, <i>B</i>: modulus Bulk zat cair (N/m\u00B2), <i>ρ0</i>: massa jenis zat cair (kg/m\u00B3)
+    </string>
+    <string name="materi_1_3_5">
+        \tCepat rambat bunyi pada zat padat dapat ditentukan dengan persamaan:
+    </string>
+    <string name="materi_1_3_6">
+        \tDengan, <i>E</i>: modulus Young zat padat (N/m\u00B2); <i>ρ0</i>: massa jenis zat padat (kg/m\u00B3)
+    </string>
+
+    <string name="materi_1_3_7">
+        \tCepat rambat bunyi pada zat gas dapat ditentukan dengan persamaan:
+    </string>
+    <string name="materi_1_3_8">
+        \tDengan, <i>γ</i>: konstanta Laplace; <i>P0</i>: tetapan gas (Pa)\n
+        Cepat rambat bunyi pada gas juga dapat ditentukan dengan meninjau dari hubungannya dengan suhu mutlak gas, berikut persamaannya:
+    </string>
+    <string name="materi_1_3_9">
+        \tDengan, <i>R</i>: tetapan umum gas (8,314 J/mol K); <i>M</i>: massa molar gas (massa 1 mol gas); <i>T</i>: suhu mutlak gas (K).
+    </string>
+    <string name="materi_2_1_1">
+        \tPara siswa di sekolah hendak latihan karawitan. Jojo dan Ani mendapat bagian untuk memainkan Gender (salah satu jenis gamelan). Sebelum mulai memainkan Gender mereka harus memahami perbedaan nada di setiap bilahnya. Mereka pun mencoba memukul bilah satu persatu dan memperhatikan nada dari setiap bilahan tersebut. Mereka pun saling bertanya, mengapa setiap bilahan Gender memnghasilkan nada yang berbeda? Selain memahami alat musik yang akan dimainkan, Jojo dan Ani diminta gurunya untuk menyalakan pengeras suara yang berada di ruang latihan. Setelah semua siap, para siswa memulai latihan. Pada saat latihan berlangsung, Rara memperhatikan kaca jendela yang ada pada ruangan tersebut. pada saat tertentu ada bagian kaca yang ikut bergetar, dan sebagian lagi tidak. Rara pun bergumam, peristiwa apakah itu, mengapa hal tersebut bisa terjadi?
+    </string>
+    <string name="lakukan_oercobaan_2">Lakukan Percobaan 2</string>
+    <string name="materi_2_2_1">
+        Sebelum mengetahui perbedaan nada pada setiap bilahan perlu diketahui bahwa <b>nada</b> merupakan bunyi dengan frekuensi tertentu yang teratur. Frekuensi yang lebih besar akan menghasilkan nada yang lebih tinggi dan sebaliknya. Semakin besar frekuensi semakin kecil panjang gelombang dan sebaliknya. Bunyi dengan frekuensi yang tidak beraturan disebut dengan <b>desah.</b> Kekhasan setiap bunyi meskipun mempuyai frekuensi yang sama dengan bunyi lainnya disebut dengan <b>warna bunyi (timbre).</b> Apabila diberikan simpangan yang besar, maka amplitudo bunyi semakin besar pula. Kekuatan bunyi dipengaruhi oleh amplitudo. Semakin besar amplitudo semakin kuat bunyi tersebut.
+    </string>
+    <string name="materi_2_4_1">
+        Pola gelombang pada senar (dawai) berbeda dengan pola gelombang pada tabung seng atau bambu Gender. Berikut pola gelombang dan perbedaan nadanya.
+    </string>
+    <string name="materi_2_4_2">
+        (<i>I</i> : Panjang tali; <i>F</i> : gaya (N); <i>m</i> : massa tali (kg)\nMenurut Hukum <b>Mersenne</b>
+    </string>
+    <string name="materi_3_1_1">
+        \tTerdapat sebuah pertunjukan gamelan di lapangan untuk memperingati hari kemerdekaan Indonesia. Selain alat musik gamelan, di panggung pertunjukan dipasang satu pengeras suara menghadap ke depan (ke arah penonton). Apabila Pak Dani duduk di jarak 10 m, Pak Lana 20 m, dan Pak Raden 30 m dari panggung pertunjukan. Tempat duduk penonton manakah yang memiliki taraf intensitas tertinggi!
+    </string>
+    <string name="materi_3_2_1">
+        Intensitas adalah energi yang dipindahkan per satuan luas per satuan waktu atau daya [F per satuan luas (A)]. Intensitas bunyi yang terdengar oleh seseorang pada jarak tertentu dari sumber bunyi.
+    </string>
+    <string name="materi_3_2_2">
+        Dengan:\n
+        <i>I</i>: Intensitas (W/m\u00B2)\n
+        <i>P</i>: Daya (watt) \n
+        <i>A</i>: Luasan (m\u00B2) \n
+        <i>R</i>: Jarak (m) \n
+        Saat Gender dimainkan oleh Nayaga dari jarak tertentu dari pendengar, hubungan antara intensitas bunyi dan jarak dapat ditulis:
+    </string>
+    <string name="materi_3_2_3">
+        Pada alat musik gamelan, Gender dijadikan sebagai dasar penentuan instrumen atau nada bagi alat gamelan lain. Sehingga apabila terdapat n buah sumber bunyi yang mempunyai nada hampir sama dimainkan secara bersamaan maka intensitas bunyi totalnya adalah:     </string>
+    <string name="materi_3_2_4">Dengan <i>I</i> adalah intensitas masing-masing sumber bunyi.</string>
+    <string name="materi_3_2_5">
+        Taraf intensitas bunyi adalah logaritma perbandingan antara intensitas bunyi <i>I</i> dengan nilai dari intensitas ambang untuk bunyi ambang <i>I\u2080</i>. Sehingga berlaku :
+    </string>
+    <string name="materi_3_2_6">
+        Dengan <i>TI</i> : taraf intensitas (dB); <i>I</i> : intensitas bunyi (W/m\u00B2); <i>I\u2080</i> : intensitas ambang = 10-12 (W/m\u00B2).\n
+        Apabila diketahui bahwa sumber bunyi menghasilkan taraf intensitas <i>TI\u2081</i> dengan jarak <i>R\u2081</i> serta taraf intensitas <i>TI\u2082</i> dengan jarak <i></i>R2, maka dapat diperoleh hubungan berikut:
+    </string>
+    <string name="materi_3_2_7">
+        Apabila terdapat n buah sumber bunyi yang dibunyikan secara bersamaan maka berlaku:
+    </string>
+    <string name="materi_3_2_8">
+        Apabila ada dua buah gelombang bunyi sampai pada seorang pendengar, masing-masing melalui panjang lintasan yang berbeda yaitu <i>s\u2081</i> dan <i>s\u2082</i>, maka perpaduan antara kedua gelombang tersebut akan menghasilkan interferensi sebagai berikut:
+        \na) Interferensi konstruktif (saling menguatkan)
+    </string>
+    <string name="materi_3_2_9">
+        b) Interferensi destruktif (saling melemahkan)
+    </string>
+    <string name="materi_3_2_10">
+        Dengan: <i>s</i> : jarak (m); λ : panjang gelombang (m); n : bunyi ke 1, ke 2,…..
+    </string>
+    <string name="materi_3_2_11">
+        Pelayangan adalah peristiwa terjadinya penguatan dan pelemahan bunyi secara bergantian akibat perpaduan dua gelombang bunyi yang berbeda sedikit.
+    </string>
+    <string name="materi_3_2_12">
+        Dengan: <i>f1</i> : frekuensi bunyi pertama; <i>f2</i> : frekuensi bunyi kedua.
+    </string>
+    <string name="soal_bk_1">
+        Dua alat musik yang berbeda dimainkan oleh seorang siswa kesenian. Saat alat musik A dimainkan, not musik terlihat pada osiloskop. Hal serupa terjadi pada not musik B. Dari kedua alat musik yang dimainkan, manakah yang menghasilkan frekuensi tertinggi…
+    </string>
+    <string name="soal_bk_2">
+        Nagaya A memainkan <i>gender panerus</i> dan Nagaya B memainkan <i>gender barung.</i> Setelah dimainkan, not musik terlihat pada osiloskop seperti pada gambar  A dan B. Manakah bunyi gender yang lebih kuat…
+    </string>
+    <string name="soal_bk_3">
+        Semua benda memiliki frekuensi ketika bergetar. Getaran yang dihasilkan oleh benda tersebut memaksa objek lain untuk bergetar, sehingga terjadilah resonansi. Resonansi terjadi apabila…
+    </string>
+    <string name="soal_bk_4">
+        Gambar di bawah ini menunjukkan 5 gelombang berdiri yang berbeda diatur dalam satu set pipa organa dengan panjang pipa 1 m. Berikut pernyataan-pernyataan berdasarkan gambar di bawah ini:
+    </string>
+    <string name="soal_bk_4_2">
+        1. Frekuensi b dua kali frekuensi a
+        \n2. Frekuensi c lima kali frekuensi a
+        \n3. Frekuensi e dua kali frekuensi a
+        \n4. Frekuensi d dua kali frekuensi a
+    </string>
+    <string name="soal_bk_5">
+        Frekuensi nada dasar pipa organa tertutup sama dengan frekuensi nada atas kedua pipa organa terbuka. Jika panjang pipa organa tertutup <i>l\u2081</i> dan pipa organa terbuka <i>l\u2082</i>, maka <i>l\u2081 :l\u2082</i> adalah…
+    </string>
+    <string name="soal_bk_6">
+        Sebuah bumbungan seng (tabung seng) terbuka pada Gender memiliki panjang 30 cm di dalamnya terjadi 3 simpul . Nada dari tabung seng ini beresonansi dengan tabung seng lain yang terbuka serta membuat 2 simpul. Panjang tabung seng yang terbuka adalah…
+    </string>
+    <string name="soal_bk_7">
+        Sebuah sumber bunyi memancarkan energi ke segala arah dengan laju perambatan konstan. Orang yang berada 9 m dari sumber bunyi mendengar bunyi tersebut. Beberapa saat kemudian, intensitas bunyi pada sumber bunyi bertambah menjadi 3 kali intensitas bunyi sebelumnya. Jika ingin mendengar bunyi dengan intensitas yang sama dengan sebelumnya, berapakah jarak pendengar dari sumber…
+    </string>
+    <string name="soal_bk_8">
+        Bunyi alat musik gender saat ditabuh menghasilkan taraf intensitas 40 dB, sedangkan gong saat ditabuh menghasilkan taraf intensitas 60 dB (<i>I\u2080</i> = 10<i>s\u207b\u00B9\u00B2</i> W.m<i>s\u207b\u00B2</i>). Jika 10 alat musik gender dan 20 gong ditabuh serentak, maka perbandingan taraf intensitas kedua alat musik tersebut adalah…
+    </string>
+    <string name="soal_bk_9">
+        Jarak seorang pendengar A ke sumber bunyi dua kali dari jarak pendengar B. Apabila intensitas bunyi pada pendengar B 84 W. m<i>\u00Bb\u00B2</i>, maka intensitas bunyi pada pendengar A adalah…
+    </string>
+    <string name="soal_bk_10">
+        Pada sebuah tabung berisi udara dengan panjang 90 cm yang tertutup pada salah satu ujungnya mengalami resonansi. Tabung tersebut dapat beresonansi dengan berbagai frekuensi, dengan frekuensi terendah sebesar 75 Hz. Laju rambat bunyi tersebut adalah…
+    </string>
+    <string name="pembahasan_bk_1">
+        Semakin kecil frekuensi sebuah bunyi, maka jumlah gelombang yang dihasilkan semakin sedikit dan sebaliknya. Satu gelombang terdiri dari satu lembah dan satu bukit. Semakin banyak jumlah gelombang, maka frekuensinya akan semakin tinggi.
+    </string>
+    <string name="pembahasan_bk_2">
+        Kekuatan bunyi dipengaruhi oleh amplitudo yaitu simpangan terjauh. Semakin besar amplitudo semakin kuat bunyi tersebut.
+    </string>
+    <string name="pembahasan_bk_3">
+        Ketika dua buah benda saling terhubung mempunyai frekuensi alamiah yang sama dan salah satu benda sedang bergetar, maka getarannya akan memaksa benda kedua untuk ikut bergetar. Hasil dari resonansi adalah getaran yang lebih besar, maksudnya amplitude getaran resonansi lebih besar dari amplitudo getaran sumber.
+    </string>
+    <string name="pembahasan_bk_4">
+        Frekuensi pada pipa organa tertutup ditentukan oleh banyaknya simpul dan perut yang terbentuk. Karena keduanya yang mempengaruhi panjang gelombang yang terbentuk.
+    </string>
+    <string name="pembahasan_bk_5">
+        Perbandingan panjang tabung 1 dan 2 dapat diketahui menggunakan persamaan berikut:
+    </string>
+    <string name="pembahasan_bk_6">
+        Pipa organa tertutup dengan 3 simpul merupakan frekuensi nada atas kedua. Sedangkan, pipa organa terbuka dengan 2 simpul merupakan frekuensi nada atas pertama, sehingga berlaku persamaan:
+    </string>
+    <string name="pembahasan_bk_7">
+        Intensitas merupakan energi yang dipindahkan per satuan luas per satuan waktu atau daya (<i>F</i> per satuan luas <i>(A)</i>)
+    </string>
+    <string name="pembahasan_bk_7_2">
+        dari persamaan tersebut, maka <i>I</i> sebanding dengan 1/r\u2082 sehingga, Jika <i>I\u2082 = 3I\u2081</i>, maka besarnya <i>r\u2082</i> adalah
+    </string>
+    <string name="pembahasan_bk_8">
+        Taraf intensitas bunyi merupakan logaritma perbandingan antara intensitas bunyi <i>(I)</i> dengan nilai dari intensitas ambang <i>(I\u2080)</i>, sehingga dapat ditulis dengan persamaan:
+    </string>
+    <string name="pembahasan_bk_9">
+        Besarnya intensitas selalu berbanding terbalik dengan kuadrat jaraknya terhadap sumber, dapat ditulis:
+    </string>
+    <string name="pembahasan_bk_10">
+        Jika diketahui frekuensi terendah 75 Hz, maka frekuensi terendah panjang kolom udara adalah:
+    </string>
+    <string name="pembahasan_bk_10_2">
+        Maka cepat rambat bunyi <i>v</i> adalah:
+    </string>
+    <string name="pembahasan">Pembahasan</string>
+    <string name="soal_pm_1">
+        Pada sebuah pertunjukkan seni, Aldo memainkan gender panerus yaitu alat musik dengan tabung resonator di bawah bilahan-bilahannya. Sebelum memulai pertunjukkan, Aldo melakukan gladi bersih. Aldo menabuh bilahan gender satu per satu sehingga terdengar nada yang berbeda mulai nada rendah hingga nada tinggi. Faktor-faktor yang mempengaruhi tinggi rendahnya nada pada bumbungan seng  (tabung resonator) tersebut adalah…
+    </string>
+    <string name="soal_pm_2">
+        Pengrajin gamelan hendak membuat Gender Barung. Pertama-tama pengrajin mempersiapkan bahan-bahan dasar pembuatannya seperti bambu sebagai resonator. Pengrajin menggunakan bumbung bambu terbuka pada ujungnya dengan panjang 50 cm. Saat bilah Gender ditabuh menghasilkan dua frekuensi nada atas yang berturut-turut 420 Hz dan 490 Hz. Apakah cepat rambat pada saatdua frekuensi nada atas tersebut sama…
+    </string>
+    <string name="soal_pm_3">
+        Rara mendengar bunyi gamelan dari titik A dan Ratna mendengar bunyi yang sama dari titik B. Perbandingan jarak mereka berdua adalah 3 : 5 dari sumber bunyi. Apabila bunyi gamelan tersebut menyebar merata ke segala arah, perbandingan intensitas bunyi pada posisi Rara dan Ratna adalah…
+    </string>
+    <string name="soal_pm_4">
+        Bapak kepala desa berada pada jarak 100 m dari tempat pertunjukan wayang kulit, Beliau sudah mendengar suara alunan musik tradisional yang kuat dengan taraf intensitas 40 dB. Beliaupun berjalan menuju tempat pertunjukkan dan disambut oleh masyarakat pada jarak 80 m dari posisi awal. Apakah selisih perbandingan taraf intensitas dari dua posisi yang berbeda lebih dari 5…
+    </string>
+    <string name="soal_pm_5">
+        Reno tinggal di sebuah desa yang di lalui lintasan kereta tanpa plang dan penjaga. Demi keselamatan, Reno ingin mengetahui waktu kedatangan kereta dengan menempelkan telinganya pada rel tersebut. Jika pada kenyataannya kereta berada pada jarak 5 km dari tempat reno menempelkan telinganya. Berapakah waktu yang diperlukan gelombang bunyi untuk merambat sampai ke telinga Reno jika dianggap kerapatan rel kereta 40.000 kg/m\u00b3 dan modulus elastisitasnya 2 x 10\u00b9\u00b9 N/m\u00b2…
+    </string>
+    <string name="soal_pm_6">
+        Pada sebuah percobaan, gelombang bunyi terjadi dalam tabung berisi udara yang tertutup pada ujungnya yang lain. Apabila tabung dengan panjang 90 cm dapat beresonansi dengan berbagai frekuensi, dan frekuensi terendahnya adalah 75 Hz. Apakah cepat rambat bunyi di udara kurang dari 100 m/s…
+    </string>
+    <string name="soal_pm_7">
+        Pada pembuatan alat musik Gender, pengrajin membuat tabung seng terbuka A dan tabung tertutup sebelah B. Panjang tabung seng tersebut sama. Perbandingan frekuensi nada atas kedua antara tabung seng Adan tabung seng B adalah…
+    </string>
+    <string name="soal_pm_8">
+        Suatu gelombang gempa terasa di Sragen dengan intensitas 8 x 10\u00b5  W/m\u00b2. Sumber gempa tersebut berada pada jarak 300 km dari Sragen. Jika jarak antara Sragen dan Yogyakarta 100 km dan ketiga tempat tersebut membentuk sebuah sudut siku-siku dengan sudut siku-siku di Sragen. Dimanakah intensitas gempa yang lebih besar…
+    </string>
+    <string name="soal_pm_9">
+        Desi memiliki grup biola dengan jumlah pesertanya sebanyak 15 orang. Saat desi mulai memainkan biola, taraf intensitas dari sumber bunyi yang berjarak 20 m adalah 100 dB. Jika ke 15 orang memainkan biola bersamaan dengan irama musik yang sama, apakah taraf intensitas saat Desi memainkan biola sendiri lebih besar dari saat biola dimainkan 10 orang secara bersamaan yang terdengar dari jarak 200 m…
+    </string>
+    <string name="soal_pm_10">
+        Seorang gitaris pada sebuah pertunjukkan hendak menaikkan nada pada dawai di gitarnya. Hal tersebut dapat dilakukan dengan cara…
+    </string>
+    <string name="pembahasan_pm_1">
+        Tinggi rendah nada pada pipa organa (tabung seng) dipengaruhi oleh panjang tabung dan cepat rambat bunyi di udara.
+    </string>
+    <string name="pembahasan_pm_2_1">
+        Perlu diingat perbandingan frekuensi pada pipa organa terbuka adalah:
+    </string>
+    <string name="pembahasan_pm_2_2">
+        Jadi perbandingan frekuensinya adalah: 420 : 490 = 6 : 7 = <i>f\u2085 : f\u2086</i>
+        \n•\tUntuk nada atas f\u2085, maka L = <i>3λ</i>
+    </string>
+    <string name="pembahasan_pm_2_3">
+        •\tUntuk nada atas f\u2086, maka L = 7/2λ
+    </string>
+    <string name="pembahasan_pm_3">
+        Perlu diingat bahwa hubungan intensitas bunyi dan jarak berbanding adalah:
+    </string>
+    <string name="pembahasan_pm_4">
+        Apabila jarak dari sumber bunyi berubah, maka:
+    </string>
+    <string name="pembahasan_pm_4_2">
+        Perbandingan taraf intensitas dari jarak yang berbeda adalah:
+        \n100 : 20 = 40 : 54 = 20 : 27
+    </string>
+    <string name="pembahasan_pm_5">
+        Untuk mengetahui waktu yang dibutuhkan gelombang bunyi meramat, maka perlu diketahui cepat rambatnya:
+    </string>
+    <string name="pembahasan_pm_6">
+        Apabila diketahui f0 = 75 Hz, pada frekuensi terendah panjang kolom udara adalah:
+    </string>
+    <string name="pembahasan_pm_6_2">
+        Sehingga dapat ditentukan cepat rambat bunyi pada tabung tersebut:
+    </string>
+    <string name="pembahasan_pm_6_3">
+        Jadi, cepat rambat bunyi lebih dari 210 m/s.
+    </string>
+    <string name="pembahasan_pm_7">
+        Karena yang ditanya adalah nada atas kedua, maka menggunakan persamaan sebagai berikut:
+    </string>
+    <string name="pembahasan_pm_7_2">
+        Jadi, perbandingan antara tabung A dan B adalah 6 : 5.
+    </string>
+    <string name="pembahasan_pm_8">
+        Apabila kedua kota dan daerah sumber gempa digambarkan, maka akan seperti di bawah ini:
+    </string>
+    <string name="pembahasan_pm_8_2">
+        Jadi, intensitas di Sragen lebih besar daripada di Yogyakarta.
+    </string>
+    <string name="pembahasan_pm_9">
+        Perlu diingat bahwa hubungan antara taraf intensitas dengan jumlah sumber bunyi dan jarak yang berbeda adalah:
+    </string>
+    <string name="pembahasan_pm_10">
+        Kecepatan bunyi pada dawai dirumuskan dengan:
+    </string>
+    <string name="pembahasan_pm_10_2">
+        (pada frekuensi nada dasar dawai)
+    </string>
+    <string name="pembahasan_pm_10_3">
+        Persamaan diatas menjelaskan bahwa frekuensi berbanding terbalik dengan panjang dawai gitar. Jadi, untuk meninggikan nada maka panjang dawai gitar harus diperkecil.
+    </string>
+
+    <string name="percobaan_1_1">
+        Perhatiakan beberapa fenomena pada gambar berikut!
+    </string>
+    <string name="percobaan_1_2">
+        Diskusikan dan tulislah hasil pengamatan ketiga peristiwa tersebut pada Lembar Kerja Peserta Didik (LKPD) yang telah disediakan!
+    </string>
+</resources>

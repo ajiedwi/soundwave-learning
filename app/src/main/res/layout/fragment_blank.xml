@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Selamat, nama. Nilai kamu"
+            android:textSize="16sp"
+            android:id="@+id/dialog_name"
+            android:fontFamily="@font/raleway_semibold"
+            android:textColor="@color/textColorBlack"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="90"
+            android:id="@+id/dialog_nilai"
+            android:fontFamily="@font/raleway_bold"
+            android:textSize="48sp"
+            android:textColor="@color/bg_green"/>
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:background="@color/bg_green"
+            android:id="@+id/dialog_pembahasan"
+            android:textColor="@color/backgroundWhite"
+            android:fontFamily="@font/raleway_semibold"
+            android:textSize="16sp"
+            android:text="Lihat Pembahasan"/>
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dialog_coba_lagi"
+            android:textAllCaps="false"
+            android:background="@color/frenchPuce"
+            android:textColor="@color/backgroundWhite"
+            android:fontFamily="@font/raleway_semibold"
+            android:textSize="16sp"
+            android:text="Coba Lagi"/>
+
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:background="@color/backgroundWhite"
+            android:textColor="@color/frenchPuce"
+            android:fontFamily="@font/raleway_semibold"
+            android:textSize="16sp"
+            android:id="@+id/dialog_kembali"
+            android:text="Kembali"/>
+    </LinearLayout>

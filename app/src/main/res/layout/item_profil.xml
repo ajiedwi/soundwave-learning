@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:layout_margin="5dp">
+
+    <TextView
+        android:id="@+id/tv_item_profil_index"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:text="Nama :"
+        android:justificationMode="inter_word"
+        android:gravity="start"
+        android:textColor="@color/textColorBlack"
+        android:fontFamily="@font/raleway_semibold"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tv_item_profil_content"
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="match_parent"
+        android:text="Nafi\'atus Sholihah"
+        android:textColor="@color/textColorBlack"
+        android:fontFamily="@font/raleway_reguler"
+        android:textSize="14sp"/>
+
+</LinearLayout>
